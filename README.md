@@ -139,7 +139,7 @@ Solution : Collecter plus de données ou ajuster les paramètres
 
 ## Auteur
 
-- [Amen Hadded](https://github.com/amen-hadded)
+- [Amen Allah Hadded](https://github.com/amen-hadded)
 
 
 ---
